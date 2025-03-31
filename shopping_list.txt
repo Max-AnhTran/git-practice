@@ -1,3 +1,4 @@
 Milk\nBread\nEggs\nCheese
 Butter
 Butter
+Sugar
